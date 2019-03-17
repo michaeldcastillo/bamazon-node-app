@@ -22,3 +22,11 @@ This app must be run (executed) in the context of Node.js using a terminal appli
 
 * A transaction can only handle 1 item/product per app execution (must run the app again to purchase an additional item)
 * A purchase transaciton is cancelled if the stock quantity is less than the requested quantity (even if a lesser amount of the item is in stock)
+
+### GitHub Repository
+
+* https://github.com/michaeldcastillo/bamazon-node-app
+
+### GitHub Pages (screenshots)
+
+* https://michaeldcastillo.github.io/bamazon-node-app/index.html
