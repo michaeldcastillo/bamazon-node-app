@@ -2,15 +2,15 @@
 
 ### Project Description
 
-This project takes its inspiration from one of the world's most popular online retailers, Amazon.com. In this example, the app is executed via a command line interface, prompting for user inputs in order to process a fictitious purchase. The items for purchase are stored in a database that is acted upon during the transaction. 
+This project takes its inspiration from one of the world's most popular online retailers, Amazon.com. In this example, the app is executed via a command line interface, prompting for user inputs in order to process a fictitious purchase. The items for purchase are stored in a SQL database that is acted upon in the course of the app's execution. 
 
 Technologies used in this app include the following:
 
 * JavaScript - As a "back-end" programming language
-* Node.js - JavaScript runtime providng the app's execution environment and command line interface
+* Node.js - JavaScript runtime providing the app's execution environment and command line interface
 * Inquirer.js (package) - Node package used to process command line questions/answers
 * mysql (package) - Node package used to interface with the database
-* MySQL (database) - Relational Database Management System
+* MySQL (database) - Relational Database Management System (RDMS) administered using MySQL Workbench
 
 ### Running the Application
 
