@@ -30,3 +30,9 @@ This app must be run (executed) in the context of Node.js using a terminal appli
 ### GitHub Pages (screenshots)
 
 * https://michaeldcastillo.github.io/bamazon-node-app/index.html
+
+### Extra Credit (screenshots)
+
+* bamazonManager1.png
+* bamazonManager2.png
+* bamazonManager3.png

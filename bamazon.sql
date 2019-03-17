@@ -47,6 +47,8 @@ SELECT * FROM products_tbl WHERE item_id = 1;
 
 UPDATE products_tbl SET stock_quantity = 10 WHERE item_id = 1;
 
+SELECT * FROM products_tbl WHERE stock_quantity < 5;
+
 
 
 
